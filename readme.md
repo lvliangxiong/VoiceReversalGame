@@ -1,4 +1,4 @@
-# Voice Reversal Game
+# Voice Reversal Challenge
 
 This is a voice reversal game implemented with MATLAB R2020b.
 
